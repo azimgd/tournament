@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #cbcbcb;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_1_2" data-name="Symbol 1 – 2" transform="translate(-104.293 -161.634)">
+    <path id="Union_1" data-name="Union 1" class="cls-1" d="M3.649-13.351,0-9.7l3.649-3.649L0-17l3.649,3.649L7.3-17,3.649-13.351,7.3-9.7Z" transform="translate(105 179.342)"/>
+  </g>
+</svg>
